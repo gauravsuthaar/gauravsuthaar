@@ -1,49 +1,22 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gauravsuthaar/gauravsuthaar/main/assets/banner.jpg" width="100%">
+</p>
+
+<br>
+
+<div align="center">
 <div align="center">
 
 # Gaurav Suthar
 
 ### Human First AI
 
-Frontier Systems · Machine Reasoning · Trust Infrastructure
-
-<br>
-
-> Intelligence is becoming abundant.  
-> Understanding is not.
+Frontier AI · RL · DL · Intelligence
 
 </div>
 
-<br>
-
-<table>
-<tr>
-<td width="50%">
-
-### ◈ Focus
-
-- Human-centered AI
-- Trust & Decision Systems
-- Frontier Intelligence
-- Interpretability
-- AI Safety
-
-</td>
-
-<td width="50%">
-
-
-</td>
-</tr>
-</table>
-
 ---
 
-txt Capability ↑  Understanding ↓  The gap between the two is where many of the most important problems live. 
-
----
-
-<div align="center">
+> Building at the boundary between capability and understanding.
 
 LinkedIn → linkedin.com/in/gauravsuthar2005
-
-</div>
