@@ -1,16 +1,14 @@
-## Hi there 👋
+# Gaurav Suthar
 
-<!--
-**gauravsuthaar/gauravsuthaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Human First AI.
 
-Here are some ideas to get you started:
+Frontier systems.
+Machine intelligence.
+Trust and decision systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍂 Exploring how increasingly capable technologies can remain understandable reliable and aligned with human values.
+
+🌱 Interested in frontier systems trust and the design of technology that remains understandable as it becomes increasingly capable.
+
+LinkedIn → linkedin.com/in/gauravsuthar2005
+
