@@ -5,10 +5,22 @@
 
 # Gaurav Suthar
 
-### Human First AI
-
-Building systems that help intelligence remain understandable as it becomes increasingly capable.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gauravsuthaar/gauravsuthaar/main/banner.png" width="100%">
+</p>
 
 <br>
 
-LinkedIn → linkedin.com/in/gauravsuthar2005
+<p align="center">
+  <sub>Human First AI</sub>
+</p>
+
+<p align="center">
+  Building systems that help intelligence remain understandable as it becomes increasingly capable.
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gauravsuthar2005/">LinkedIn ↗</a>
+</p>
