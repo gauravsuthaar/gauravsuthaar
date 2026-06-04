@@ -7,14 +7,8 @@
 
 ### Human First AI
 
-Frontier AI · RL · DL · Intelligence
-
-</div>
+Building systems that help intelligence remain understandable as it becomes increasingly capable.
 
 <br>
 
-> Intelligence is becoming abundant. Understanding is not.
-
-Building the intersection of intelligence trust reasoning and human understanding.
-
-LinkedIn → https://www.linkedin.com/in/gauravsuthar2005/
+LinkedIn → linkedin.com/in/gauravsuthar2005
