@@ -4,7 +4,7 @@
 
 ### Human First AI
 
-Frontier Systems • Machine Reasoning • Trust Infrastructure
+Frontier Systems · Machine Reasoning · Trust Infrastructure
 
 <br>
 
@@ -15,19 +15,35 @@ Frontier Systems • Machine Reasoning • Trust Infrastructure
 
 <br>
 
-◈ Interested in the moment systems become important enough to trust.
+<table>
+<tr>
+<td width="50%">
 
-◐ Exploring capability understanding and human reliance in increasingly capable AI systems.
+### ◈ Focus
 
-◌ Building technology that remains legible as complexity scales.
+- Human-centered AI
+- Trust & Decision Systems
+- Frontier Intelligence
+- Interpretability
+- AI Safety
 
-<br>
+</td>
 
-### Projects
+<td width="50%">
 
-- TrustCraft
-- Cognitive Drift Analyzer
 
-<br>
+</td>
+</tr>
+</table>
+
+---
+
+txt Capability ↑  Understanding ↓  The gap between the two is where many of the most important problems live. 
+
+---
+
+<div align="center">
 
 LinkedIn → linkedin.com/in/gauravsuthar2005
+
+</div>
