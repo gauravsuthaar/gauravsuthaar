@@ -1,14 +1,16 @@
 # Gaurav Suthar
 
-Human First AI.
+### Human First AI
 
-Frontier systems.
-Machine intelligence.
-Trust and decision systems.
+Frontier systems. Trust infrastructure. Machine reasoning.
 
-🍂 Exploring how increasingly capable technologies can remain understandable reliable and aligned with human values.
+◈ Interested in how intelligence changes the moment people begin to rely on it.
 
-🌱 Interested in frontier systems trust and the design of technology that remains understandable as it becomes increasingly capable.
+🌒 Studying the boundary between capability and understanding.
+
+🍃 Building systems that remain interpretable when complexity is no longer optional.
+
+
+---
 
 LinkedIn → linkedin.com/in/gauravsuthar2005
-
