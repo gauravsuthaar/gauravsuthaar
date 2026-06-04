@@ -6,12 +6,6 @@
 # Gaurav Suthar
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gauravsuthaar/gauravsuthaar/main/banner.png" width="100%">
-</p>
-
-<br>
-
-<p align="center">
   <sub>Human First AI</sub>
 </p>
 
