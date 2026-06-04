@@ -2,9 +2,6 @@
   <img src="https://raw.githubusercontent.com/gauravsuthaar/gauravsuthaar/main/assets/banner.png" width="100%">
 </p>
 
-<br>
-
-<div align="center">
 <div align="center">
 
 # Gaurav Suthar
@@ -15,8 +12,10 @@ Frontier AI · RL · DL · Intelligence
 
 </div>
 
----
+<br>
 
-> Building at the boundary between capability and understanding.
+> Intelligence is becoming abundant. Understanding is not.
 
-LinkedIn → linkedin.com/in/gauravsuthar2005
+Building the intersection of intelligence trust reasoning and human understanding.
+
+LinkedIn → https://www.linkedin.com/in/gauravsuthar2005/
