@@ -3,7 +3,6 @@
 </p>
 <div align="center">
 
-# Gaurav Suthar
 
 <p align="center">
   <sub>Human First AI</sub>
