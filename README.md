@@ -1,16 +1,33 @@
+<div align="center">
+
 # Gaurav Suthar
 
 ### Human First AI
 
-Frontier systems. Trust infrastructure. Machine reasoning.
+Frontier Systems • Machine Reasoning • Trust Infrastructure
 
-◈ Interested in how intelligence changes the moment people begin to rely on it.
+<br>
 
-🌒 Studying the boundary between capability and understanding.
+> Intelligence is becoming abundant.  
+> Understanding is not.
 
-🍃 Building systems that remain interpretable when complexity is no longer optional.
+</div>
 
+<br>
 
----
+◈ Interested in the moment systems become important enough to trust.
+
+◐ Exploring capability understanding and human reliance in increasingly capable AI systems.
+
+◌ Building technology that remains legible as complexity scales.
+
+<br>
+
+### Projects
+
+- TrustCraft
+- Cognitive Drift Analyzer
+
+<br>
 
 LinkedIn → linkedin.com/in/gauravsuthar2005
