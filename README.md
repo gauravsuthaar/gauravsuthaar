@@ -56,13 +56,3 @@ I design and build AI systems that prioritize reasoning transparency human overs
 > The future of AI is amplifying human intelligence.
 
 ---
-
-## Connect
-
-**LinkedIn**
-
-https://www.linkedin.com/in/gauravsuthar2005/
-
-**Email**
-
-suthargaurav2005@gmail.com
