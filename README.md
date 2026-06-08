@@ -30,7 +30,7 @@ I design and build AI systems that prioritize reasoning transparency human overs
 
 ---
 
-## Current Focus
+## Human Intelligence Research
 
 | Agentic AI | Reinforcement Learning | Explainable AI |
 |------------|----------------------|----------------|
