@@ -1,1 +1,80 @@
-html <div align="center">  <img width="100%" src="YOUR_BANNER_IMAGE_URL"/>  <br><br>  # Gaurav Suthar  ### Human First AI • Frontier Intelligence Systems  Building machine intelligence that remains understandable as it becomes increasingly capable.  <br>  <a href="https://www.linkedin.com/in/gauravsuthar2005/">   <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge"/> </a>  <a href="mailto:suthargaurav2005@gmail.com">   <img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge"/> </a>  </div>  ---  ## Human First AI  Intelligence should not become a black box.  I design and build AI systems that prioritize reasoning transparency human oversight and long-term alignment.  My work focuses on the intersection of machine intelligence and human intelligence where advanced systems remain interpretable trustworthy and useful.  ---  ## Current Focus  <table> <tr> <td width="33%">  ### Agentic AI  Building autonomous systems capable of planning reasoning and tool use.  </td>  <td width="33%">  ### Reinforcement Learning  Exploring adaptive intelligence through reward-driven optimization.  </td>  <td width="33%">  ### Explainable AI  Creating models that remain understandable as capability scales.  </td> </tr> </table>  ---  ## Featured Systems  ### Cognitive Drift Analyzer  Behavioral intelligence platform designed to identify reasoning patterns and cognitive shifts using machine learning.  ### Basketball Performance Predictor  Predictive analytics system leveraging statistical modeling and machine learning for performance forecasting.  ---  ## Research Interests  - Human-AI Collaboration - Frontier Intelligence Systems - Reinforcement Learning - Explainable Artificial Intelligence - Agentic Architectures - AI Alignment - Cognitive Systems - Future of Human Intelligence  ---  ## Philosophy  > The future of AI is not replacing human intelligence. > > The future of AI is amplifying human intelligence.  ---  ## Connect  **LinkedIn**   https://www.linkedin.com/in/gauravsuthar2005/  **Email**   suthargaurav2005@gmail.com  <br>  <div align="center">  ### Crafting the next era of human-centered intelligence  </div> 
+<div align="center">
+
+<img src="./banner.png" width="100%" />
+
+# Gaurav Suthar
+
+### Human First AI • Frontier Intelligence Systems
+
+Building machine intelligence that remains understandable as it becomes increasingly capable.
+
+<br>
+
+<a href="https://www.linkedin.com/in/gauravsuthar2005/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge" />
+</a>
+
+<a href="mailto:suthargaurav2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-black?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## Human First AI
+
+Intelligence should not become a black box.
+
+I design and build AI systems that prioritize reasoning transparency human oversight and long term alignment.
+
+---
+
+## Current Focus
+
+| Agentic AI | Reinforcement Learning | Explainable AI |
+|------------|----------------------|----------------|
+| Building autonomous systems capable of planning reasoning and tool use | Exploring adaptive intelligence through reward driven optimization | Creating models that remain understandable as capability scales |
+
+---
+
+## Featured Systems
+
+### Cognitive Drift Analyzer
+
+Behavioral intelligence platform designed to identify reasoning patterns and cognitive shifts.
+
+### Basketball Performance Predictor
+
+Predictive analytics system leveraging statistical modeling and machine learning.
+
+---
+
+## Research Interests
+
+- Human AI Collaboration
+- Frontier Intelligence Systems
+- Reinforcement Learning
+- Explainable AI
+- Agentic Architectures
+- AI Alignment
+
+---
+
+## Philosophy
+
+> The future of AI is not replacing human intelligence.
+>
+> The future of AI is amplifying human intelligence.
+
+---
+
+## Connect
+
+**LinkedIn**
+
+https://www.linkedin.com/in/gauravsuthar2005/
+
+**Email**
+
+suthargaurav2005@gmail.com
