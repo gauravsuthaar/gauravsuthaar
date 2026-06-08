@@ -38,18 +38,6 @@ I design and build AI systems that prioritize reasoning transparency human overs
 
 ---
 
-## Featured Systems
-
-### Cognitive Drift Analyzer
-
-Behavioral intelligence platform designed to identify reasoning patterns and cognitive shifts.
-
-### Basketball Performance Predictor
-
-Predictive analytics system leveraging statistical modeling and machine learning.
-
----
-
 ## Research Interests
 
 - Human AI Collaboration
