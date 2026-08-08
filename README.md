@@ -28,7 +28,6 @@ I design and build AI systems that prioritize reasoning transparency human overs
 
 ---
 
-## Human Intelligence Research
 
 | Agentic AI | Reinforcement Learning | Explainable AI |
 |------------|----------------------|----------------|
