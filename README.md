@@ -4,8 +4,6 @@
 
 # Gaurav Suthar
 
-## Human Intelligence Research
-
 Building machine intelligence that remains understandable as it becomes increasingly capable.
 
 <br>
