@@ -22,8 +22,6 @@ Building machine intelligence that remains understandable as it becomes increasi
 
 ---
 
-## Human First AI
-
 Intelligence should not become a black box.
 
 I design and build AI systems that prioritize reasoning transparency human oversight and long term alignment.
