@@ -4,7 +4,7 @@
 
 # Gaurav Suthar
 
-### Human First AI • Frontier Intelligence Systems
+### Frontier Intelligence Systems
 
 Building machine intelligence that remains understandable as it becomes increasingly capable.
 
