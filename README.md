@@ -4,7 +4,7 @@
 
 # Gaurav Suthar
 
-### Frontier Intelligence Systems
+
 
 Building machine intelligence that remains understandable as it becomes increasingly capable.
 
